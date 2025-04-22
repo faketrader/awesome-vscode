@@ -1,0 +1,42 @@
+{
+  "name": "awesome-pack-java",
+  "displayName": " Awesome Java Pack",
+  "description": "",
+  "version": "2025.4.1",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "java-pack"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "extensionPack": [
+    "noir.nacos",
+    "k--kato.intellij-idea-keybindings",
+    "Oracle.oracle-java",
+    "oracle-labs-graalvm.visualvm-vscode",
+    "qczone.switch2idea",
+    "redhat.fabric8-analytics",
+    "redhat.java",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "SonarSource.sonarlint-vscode",
+    "vmware.vscode-boot-dev-pack",
+    "vmware.vscode-spring-boot",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-lombok",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr"
+  ],
+  "icon": "icon.png"
+}

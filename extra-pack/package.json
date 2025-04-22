@@ -1,0 +1,55 @@
+{
+  "name": "awesome-pack-extra",
+  "displayName": " Awesome Extra Pack",
+  "description": "",
+  "version": "2025.4.1",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "extra-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap",
+    "alefragnani.project-manager",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "formulahendry.code-runner-for-web",
+    "foxundermoon.shell-format",
+    "GitHub.remotehub",
+    "GrapeCity.gc-excelviewer",
+    "hediet.debug-visualizer",
+    "ionutvmi.path-autocomplete",
+    "jmviz.quote-list",
+    "kisstkondoros.vscode-gutter-preview",
+    "LouisWT.regexp-preview",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "mitchdenny.ecdc",
+    "mkxml.vscode-filesize",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.hexeditor",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-repositories",
+    "Natizyskunk.sftp",
+    "pnp.polacode",
+    "quicktype.quicktype",
+    "shardulm94.trailing-spaces",
+    "silesky.toggle-boolean",
+    "slevesque.vscode-zipexplorer",
+    "unbug.codelf",
+    "vsls-contrib.gitdoc",
+    "wix.vscode-import-cost"
+  ],
+  "icon": "icon.png"
+}

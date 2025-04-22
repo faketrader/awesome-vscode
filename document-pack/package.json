@@ -1,0 +1,36 @@
+{
+  "name": "awesome-pack-document",
+  "displayName": " Awesome Document Pack",
+  "description": "",
+  "version": "2025.4.1",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "document-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adamvoss.vscode-languagetool",
+    "adamvoss.vscode-languagetool-zh",
+    "bnavetta.zoterolatex",
+    "DavidAnson.vscode-markdownlint",
+    "goessner.mdmath",
+    "James-Yu.latex-workshop",
+    "jebbs.plantuml",
+    "mblode.zotero",
+    "ms-vscode.wordcount",
+    "myml.vscode-markdown-plantuml-preview",
+    "qhoekman.language-plantuml",
+    "shd101wyy.markdown-preview-enhanced",
+    "tecosaur.latex-utilities",
+    "valentjn.vscode-ltex",
+    "yzhang.markdown-all-in-one"
+  ],
+  "icon": "icon.png"
+}
