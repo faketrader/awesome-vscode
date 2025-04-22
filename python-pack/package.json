@@ -1,0 +1,52 @@
+{
+  "name": "awesome-pack-python",
+  "displayName": " Awesome Python Pack",
+  "description": "",
+  "version": "2025.4.1",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "python-pack"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "extensionPack": [
+    "076923.python-image-preview",
+    "almenon.arepl",
+    "EricSia.pythonsnippets3pro",
+    "KevinRose.vsc-python-indent",
+    "ms-pyright.pyright",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "ms-python.python",
+    "ms-python.pylint",
+    "ms-python.vscode-python-envs",
+    "ms-toolsai.datawrangler",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-hub",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.tensorboard",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "msrvida.vscode-sanddance",
+    "oderwat.indent-rainbow",
+    "Percy.vscode-numpy-viewer",
+    "Percy.vscode-pydata-viewer",
+    "SBSnippets.pytorch-snippets"
+  ],
+  "extensionPackBak": [
+    "ms-toolsai.python-ds-extension-pack",
+    "njpwerner.autodocstring"
+  ],
+  "icon": "icon.png"
+}

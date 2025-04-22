@@ -1,0 +1,32 @@
+{
+  "name": "awesome-pack-core",
+  "displayName": " Awesome Core Pack",
+  "description": "",
+  "version": "2025.4.1",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "core-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "eamodio.gitlens",
+    "ExodiusStudios.comment-anchors",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.copilot-labs",
+    "IBM.output-colorizer",
+    "jeepshen.vscode-markdown-code-runner",
+    "PKief.material-icon-theme",
+    "PKief.material-product-icons",
+    "usernamehw.errorlens"
+  ],
+  "icon": "icon.png"
+}
