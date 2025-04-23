@@ -13,6 +13,11 @@ vsce package
 code --install-extension *.vsix
 # vsce publish
 
+cd $WORK_DIR/document-pack/
+vsce package
+code --install-extension *.vsix
+# vsce publish
+
 cd $WORK_DIR/java-pack/
 vsce package
 code --install-extension *.vsix
@@ -23,7 +28,7 @@ vsce package
 code --install-extension *.vsix
 # vsce publish
 
-cd $WORK_DIR/document-pack/
+cd $WORK_DIR/web-pack/
 vsce package
 code --install-extension *.vsix
 # vsce publish

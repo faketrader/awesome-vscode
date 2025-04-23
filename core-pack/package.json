@@ -17,13 +17,11 @@
   ],
   "extensionPack": [
     "aaron-bond.better-comments",
-    "eamodio.gitlens",
     "ExodiusStudios.comment-anchors",
     "GitHub.copilot",
     "GitHub.copilot-chat",
     "GitHub.copilot-labs",
     "IBM.output-colorizer",
-    "jeepshen.vscode-markdown-code-runner",
     "PKief.material-icon-theme",
     "PKief.material-product-icons",
     "usernamehw.errorlens"
