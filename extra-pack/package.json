@@ -41,7 +41,7 @@
     "mikestead.dotenv",
     "mitchdenny.ecdc",
     "mkxml.vscode-filesize",
-    "ms-azuretools.vscode-docker",
+    "ms-azuretools.vscode-containers",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode.hexeditor",
