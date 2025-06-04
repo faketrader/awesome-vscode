@@ -2,7 +2,7 @@
   "name": "awesome-pack-web",
   "displayName": " Awesome Web Pack",
   "description": "",
-  "version": "2025.4.1",
+  "version": "2025.6.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -16,9 +16,9 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "Vue.volar",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
-    "Vue.volar",
     "wix.vscode-import-cost"
   ],
   "icon": "icon.png"

@@ -2,7 +2,7 @@
   "name": "awesome-pack-core",
   "displayName": " Awesome Core Pack",
   "description": "",
-  "version": "2025.4.1",
+  "version": "2025.6.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -16,7 +16,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "aaron-bond.better-comments",
     "ExodiusStudios.comment-anchors",
     "GitHub.copilot",
     "GitHub.copilot-chat",
@@ -24,6 +23,7 @@
     "IBM.output-colorizer",
     "PKief.material-icon-theme",
     "PKief.material-product-icons",
+    "aaron-bond.better-comments",
     "usernamehw.errorlens"
   ],
   "icon": "icon.png"

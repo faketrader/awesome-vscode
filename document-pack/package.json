@@ -2,7 +2,7 @@
   "name": "awesome-pack-document",
   "displayName": " Awesome Document Pack",
   "description": "",
-  "version": "2025.4.1",
+  "version": "2025.6.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -16,12 +16,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "DavidAnson.vscode-markdownlint",
+    "James-Yu.latex-workshop",
     "adamvoss.vscode-languagetool",
     "adamvoss.vscode-languagetool-zh",
     "bnavetta.zoterolatex",
-    "DavidAnson.vscode-markdownlint",
     "goessner.mdmath",
-    "James-Yu.latex-workshop",
     "jebbs.plantuml",
     "mblode.zotero",
     "ms-vscode.wordcount",
