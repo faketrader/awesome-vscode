@@ -23,7 +23,7 @@
     "LouisWT.regexp-preview",
     "Natizyskunk.sftp",
     "OmriGrossman.live-code-metric",
-    "XuangeAha.just-print-it"
+    "XuangeAha.just-print-it",
     "adpyke.codesnap",
     "alefragnani.project-manager",
     "ambooth.git-rename",
@@ -59,7 +59,7 @@
     "slevesque.vscode-zipexplorer",
     "uctakeoff.vscode-counter",
     "unbug.codelf",
-    "vsls-contrib.gitdoc",
+    "vsls-contrib.gitdoc"
   ],
   "icon": "icon.png"
 }
