@@ -19,7 +19,7 @@ package:
 
 # Target to install all extensions
 .PHONY: install
-install:
+install: package
 	@echo "Installing extensions..."
 	cd core-pack/ && code --install-extension *.vsix --force
 	cd ai-pack/ && code --install-extension *.vsix --force
