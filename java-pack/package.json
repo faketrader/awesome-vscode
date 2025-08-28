@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-java",
   "displayName": " Awesome Java Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Java Development Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -17,26 +17,30 @@
     "Programming Languages"
   ],
   "extensionPack": [
-    "Oracle.oracle-java",
     "SonarSource.sonarlint-vscode",
+    "aaronkazah.copy-reference-jetbrains",
     "k--kato.intellij-idea-keybindings",
     "noir.nacos",
     "oracle-labs-graalvm.visualvm-vscode",
-    "qczone.switch2idea",
     "redhat.fabric8-analytics",
     "redhat.java",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "vmware.vscode-boot-dev-pack",
     "vmware.vscode-spring-boot",
+    "vscjava.migrate-java-to-azure",
     "vscjava.vscode-java-debug",
     "vscjava.vscode-java-dependency",
     "vscjava.vscode-java-pack",
     "vscjava.vscode-java-test",
-    "vscjava.vscode-lombok",
     "vscjava.vscode-maven",
     "vscjava.vscode-spring-boot-dashboard",
     "vscjava.vscode-spring-initializr"
+  ],
+  "extensionPackOptional": [
+    "Oracle.oracle-java",
+    "qczone.switch2idea",
+    "vscjava.vscode-lombok"
   ],
   "icon": "icon.png"
 }

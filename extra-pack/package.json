@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-extra",
   "displayName": " Awesome Extra Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Extra Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -23,14 +23,12 @@
     "LouisWT.regexp-preview",
     "Natizyskunk.sftp",
     "OmriGrossman.live-code-metric",
+    "WakaTime.vscode-wakatime",
     "XuangeAha.just-print-it",
     "adpyke.codesnap",
     "alefragnani.project-manager",
     "ambooth.git-rename",
     "docker.docker",
-    "eamodio.gitlens",
-    "formulahendry.code-runner",
-    "formulahendry.code-runner-for-web",
     "foxundermoon.shell-format",
     "hediet.debug-visualizer",
     "ionutvmi.path-autocomplete",
@@ -58,7 +56,6 @@
     "silesky.toggle-boolean",
     "slevesque.vscode-zipexplorer",
     "uctakeoff.vscode-counter",
-    "unbug.codelf",
     "vsls-contrib.gitdoc"
   ],
   "icon": "icon.png"

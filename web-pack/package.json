@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-web",
   "displayName": " Awesome Web Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Web Development Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"

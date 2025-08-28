@@ -1,0 +1,29 @@
+{
+  "name": "awesome-optional-extra",
+  "displayName": " Awesome Optional Pack",
+  "description": "Awesome Optional Extension Pack for VSCode",
+  "version": "2025.8.0",
+  "publisher": "FakeTrader",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeTrader/awesome-vscode.git",
+    "directory": "optional-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Oracle.mysql-shell-for-vs-code",
+    "Redis.redis-for-vscode",
+    "eamodio.gitlens",
+    "formulahendry.code-runner",
+    "formulahendry.code-runner-for-web",
+    "ms-ossdata.vscode-pgsql",
+    "openai.chatgpt",
+    "unbug.codelf"
+  ],
+  "icon": "icon.png"
+}

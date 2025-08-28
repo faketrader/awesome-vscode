@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-python",
   "displayName": " Awesome Python Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Python Development Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -45,7 +45,7 @@
     "msrvida.vscode-sanddance",
     "oderwat.indent-rainbow"
   ],
-  "extensionPackBak": [
+  "extensionPackOptional": [
     "ms-toolsai.python-ds-extension-pack",
     "njpwerner.autodocstring"
   ],

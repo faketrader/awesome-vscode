@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-core",
   "displayName": " Awesome Core Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Core Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -24,7 +24,8 @@
     "PKief.material-icon-theme",
     "PKief.material-product-icons",
     "aaron-bond.better-comments",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "wanniwa.editorjumper"
   ],
   "icon": "icon.png"
 }

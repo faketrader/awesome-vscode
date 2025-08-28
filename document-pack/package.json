@@ -1,8 +1,8 @@
 {
   "name": "awesome-pack-document",
   "displayName": " Awesome Document Pack",
-  "description": "",
-  "version": "2025.6.0",
+  "description": "Awesome Document Extension Pack for VSCode",
+  "version": "2025.8.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -20,8 +20,10 @@
     "James-Yu.latex-workshop",
     "adamvoss.vscode-languagetool",
     "adamvoss.vscode-languagetool-zh",
+    "bierner.markdown-mermaid",
     "bnavetta.zoterolatex",
     "goessner.mdmath",
+    "iamhyc.overleaf-workshop",
     "jebbs.plantuml",
     "mblode.zotero",
     "ms-vscode.wordcount",
