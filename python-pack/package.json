@@ -2,7 +2,7 @@
   "name": "awesome-pack-python",
   "displayName": " Awesome Python Pack",
   "description": "Awesome Python Development Extension Pack for VSCode",
-  "version": "2025.8.0",
+  "version": "2026.3.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -24,6 +24,7 @@
     "Percy.vscode-pydata-viewer",
     "SBSnippets.pytorch-snippets",
     "almenon.arepl",
+    "google.colab",
     "charliermarsh.ruff",
     "ms-pyright.pyright",
     "ms-python.black-formatter",

@@ -2,7 +2,7 @@
   "name": "awesome-pack-document",
   "displayName": " Awesome Document Pack",
   "description": "Awesome Document Extension Pack for VSCode",
-  "version": "2025.8.0",
+  "version": "2026.3.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"

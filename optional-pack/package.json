@@ -2,7 +2,7 @@
   "name": "awesome-optional-extra",
   "displayName": " Awesome Optional Pack",
   "description": "Awesome Optional Extension Pack for VSCode",
-  "version": "2025.8.0",
+  "version": "2026.3.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -18,6 +18,7 @@
   "extensionPack": [
     "Oracle.mysql-shell-for-vs-code",
     "Redis.redis-for-vscode",
+    "brian-njogu.gitlantis",
     "eamodio.gitlens",
     "formulahendry.code-runner",
     "formulahendry.code-runner-for-web",

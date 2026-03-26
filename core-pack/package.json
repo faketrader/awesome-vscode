@@ -2,7 +2,7 @@
   "name": "awesome-pack-core",
   "displayName": " Awesome Core Pack",
   "description": "Awesome Core Extension Pack for VSCode",
-  "version": "2025.8.0",
+  "version": "2026.3.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -17,7 +17,6 @@
   ],
   "extensionPack": [
     "ExodiusStudios.comment-anchors",
-    "GitHub.copilot",
     "GitHub.copilot-chat",
     "GitHub.copilot-labs",
     "IBM.output-colorizer",

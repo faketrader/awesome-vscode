@@ -2,7 +2,7 @@
   "name": "awesome-pack-extra",
   "displayName": " Awesome Extra Pack",
   "description": "Awesome Extra Extension Pack for VSCode",
-  "version": "2025.8.0",
+  "version": "2026.3.0",
   "publisher": "FakeTrader",
   "engines": {
     "vscode": "^1.99.0"
@@ -30,6 +30,7 @@
     "ambooth.git-rename",
     "docker.docker",
     "foxundermoon.shell-format",
+    "google.colab",
     "hediet.debug-visualizer",
     "ionutvmi.path-autocomplete",
     "ivhernandez.vscode-plist",
